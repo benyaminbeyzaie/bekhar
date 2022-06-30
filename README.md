@@ -1,6 +1,8 @@
 # bekhar
 
-A new Flutter project.
+![Inspiration design](images/inspiration.webp)
+
+Synced shopping list app among a group!
 
 ## Getting Started
 
