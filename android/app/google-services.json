@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226412116522",
+    "project_id": "bekhar-85a2b",
+    "storage_bucket": "bekhar-85a2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226412116522:android:901df21235fc8e2af26153",
+        "android_client_info": {
+          "package_name": "ir.aysan.bekhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226412116522-7nkklu6f7a1cc04m0ueh9phfl9f41mqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.aysan.bekhar",
+            "certificate_hash": "70d5311ce1526c0e6f62b6b8f86d35eef5f7b0e8"
+          }
+        },
+        {
+          "client_id": "226412116522-henbrt9pk1i4l6flj4t54d4qllrgv7qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR66h8oGH35ihtcPC1rEAgPuvcdq2cH90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226412116522-henbrt9pk1i4l6flj4t54d4qllrgv7qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
